@@ -20,10 +20,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
-	golang.org/x/crypto v0.0.0-20201203163018-be400aefbc4c
-	golang.org/x/sys v0.0.0-20201202213521-69691e467435 // indirect
-	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1 // indirect
-	golang.org/x/text v0.3.4 // indirect
+	golang.org/x/crypto v0.1.0
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 	gotest.tools/v3 v3.0.3 // indirect
